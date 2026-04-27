@@ -1,0 +1,20 @@
+# Simulink-Dateien als binär
+*.slx binary
+*.mdl binary
+*.slxc binary
+*.slx.autosave binary
+
+# MATLAB-Code
+*.m text eol=lf
+*.mlx binary
+
+# Andere Dateien
+*.txt text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Bilddateien
+*.png binary
+*.jpg binary
+*.fig binary
